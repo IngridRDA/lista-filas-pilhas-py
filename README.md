@@ -17,13 +17,13 @@ Os códigos estão organizados na pasta `src`:
 ## Estrutura do projeto
 
 ```text
-estruturas-de-dados-py/
+lista-filas-pilhas-py/
 ├── README.md
 ├── .gitignore
 ├── docs/
 │   └── atividade 2 - estrutura de dados.pdf
 └── src/
-    ├── 01_contaPar.py
+    ├── 01_contaPar_recursivo.py
     ├── 02_parentetização_pilha.py
     ├── 03_inverter_fila.py
     └── 04_intercalar_filas.py
@@ -35,7 +35,7 @@ O trabalho acadêmico completo apresenta a introdução, a explicação dos prog
 
 Os documentos estão disponíveis na pasta `docs`:
 
-- [Visualizar trabalho em PDF](docs/atividade 2 - estrutura de dados.pdf)
+- [Visualizar trabalho em PDF](<docs/atividade 2 - estrutura de dados.pdf>)
 
 ## Conceitos praticados
 
