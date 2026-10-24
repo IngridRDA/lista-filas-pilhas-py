@@ -35,7 +35,7 @@ O trabalho acadêmico completo apresenta a introdução, a explicação dos prog
 
 Os documentos estão disponíveis na pasta `docs`:
 
-- [Visualizar trabalho em PDF](docs/atividade%202%20-%20estrutura%20de%20dados)
+- [Visualizar trabalho em PDF](docs/atividade 2 - estrutura_de_dados.pdf)
 
 ## Conceitos praticados
 
